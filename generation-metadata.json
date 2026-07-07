@@ -1,0 +1,10 @@
+{
+  "generatedBy": "Local self-hosted model dynamic website generation",
+  "generatedAt": "2026-07-07T19:58:23.744Z",
+  "summary": "Local model site generation needed a static fallback after validation issues: site: index.html is missing or too short.; styles.css is missing or too short.; script.js is missing or too short.; index.html must be a complete HTML document.; index.html must link",
+  "requiredFiles": [
+    "index.html",
+    "styles.css",
+    "script.js"
+  ]
+}

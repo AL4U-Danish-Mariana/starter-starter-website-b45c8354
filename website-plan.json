@@ -1,0 +1,261 @@
+{
+  "site_name": "Starter Website",
+  "site_type": "businessProfessional",
+  "audience": "",
+  "business_goal": "Prioritize executive summary, measurable business impact, leadership, core competencies, client or stakeholder value, and credibility.",
+  "brand_voice": "",
+  "source_facts": [
+    {
+      "fact": "5054300266 (Home)",
+      "evidence_excerpt": "5054300266 (Home)"
+    },
+    {
+      "fact": "danish.t.nadar@gmail.com",
+      "evidence_excerpt": "danish.t.nadar@gmail.com"
+    },
+    {
+      "fact": "www.linkedin.com/in/danish-nadar",
+      "evidence_excerpt": "www.linkedin.com/in/danish-nadar"
+    },
+    {
+      "fact": "Full-Stack Development",
+      "evidence_excerpt": "Full-Stack Development"
+    },
+    {
+      "fact": "English (Native or Bilingual)",
+      "evidence_excerpt": "English (Native or Bilingual)"
+    },
+    {
+      "fact": "Tamil (Native or Bilingual)",
+      "evidence_excerpt": "Tamil (Native or Bilingual)"
+    },
+    {
+      "fact": "Certifications",
+      "evidence_excerpt": "Certifications"
+    },
+    {
+      "fact": "Querying Data Certification",
+      "evidence_excerpt": "Querying Data Certification"
+    },
+    {
+      "fact": "Python and Data Certification",
+      "evidence_excerpt": "Python and Data Certification"
+    },
+    {
+      "fact": "Resume Rock Star",
+      "evidence_excerpt": "Resume Rock Star"
+    },
+    {
+      "fact": "AI Skills Fest 2026",
+      "evidence_excerpt": "AI Skills Fest 2026"
+    },
+    {
+      "fact": "TestOut PC Pro Certification",
+      "evidence_excerpt": "TestOut PC Pro Certification"
+    },
+    {
+      "fact": "Honors-Awards",
+      "evidence_excerpt": "Honors-Awards"
+    },
+    {
+      "fact": "Leadership Academy Scholarship",
+      "evidence_excerpt": "Leadership Academy Scholarship"
+    },
+    {
+      "fact": "Danish Nadar",
+      "evidence_excerpt": "Danish Nadar"
+    },
+    {
+      "fact": "Machine Learning Engineer @ Grupo Eloria | B.S.",
+      "evidence_excerpt": "Machine Learning Engineer @ Grupo Eloria | B.S."
+    },
+    {
+      "fact": "AI, Minor in Data Science @ Illinois Tech, 2027 | M.A & Lila Self",
+      "evidence_excerpt": "AI, Minor in Data Science @ Illinois Tech, 2027 | M.A & Lila Self"
+    },
+    {
+      "fact": "Leadership Academy Scholar",
+      "evidence_excerpt": "Leadership Academy Scholar"
+    },
+    {
+      "fact": "Damascus, Maryland, United States",
+      "evidence_excerpt": "Damascus, Maryland, United States"
+    },
+    {
+      "fact": "I’m a student AI engineer who builds dependable software systems",
+      "evidence_excerpt": "I’m a student AI engineer who builds dependable software systems"
+    },
+    {
+      "fact": "that use data to make decisions ranging from security automation",
+      "evidence_excerpt": "that use data to make decisions ranging from security automation"
+    },
+    {
+      "fact": "to real-time autonomy.",
+      "evidence_excerpt": "to real-time autonomy."
+    }
+  ],
+  "must_include_facts": [
+    "5054300266 (Home)",
+    "danish.t.nadar@gmail.com",
+    "www.linkedin.com/in/danish-nadar",
+    "Full-Stack Development",
+    "English (Native or Bilingual)",
+    "Tamil (Native or Bilingual)",
+    "Certifications",
+    "Querying Data Certification",
+    "Python and Data Certification",
+    "Resume Rock Star",
+    "AI Skills Fest 2026",
+    "TestOut PC Pro Certification",
+    "Honors-Awards",
+    "Leadership Academy Scholarship",
+    "Danish Nadar",
+    "Machine Learning Engineer @ Grupo Eloria | B.S.",
+    "AI, Minor in Data Science @ Illinois Tech, 2027 | M.A & Lila Self",
+    "Leadership Academy Scholar",
+    "Damascus, Maryland, United States",
+    "I’m a student AI engineer who builds dependable software systems",
+    "that use data to make decisions ranging from security automation",
+    "to real-time autonomy."
+  ],
+  "project_cards": [],
+  "service_cards": [],
+  "audience_segments": [
+    {
+      "title": "I’m a student AI engineer who builds dependable software systems",
+      "description": "I’m a student AI engineer who builds dependable software systems",
+      "details": [
+        "I’m a student AI engineer who builds dependable software systems"
+      ],
+      "evidence_excerpt": "I’m a student AI engineer who builds dependable software systems"
+    }
+  ],
+  "differentiators": [],
+  "faq_items": [],
+  "do_not_include": [
+    "Do not invent names, employers, headlines, taglines, summaries, skills, locations, services, education, experience, metrics, or contact details."
+  ],
+  "generation_instructions": {
+    "selected_purpose": {
+      "key": "businessProfessional",
+      "label": "Business professional profile",
+      "guidance": "Prioritize executive summary, measurable business impact, leadership, core competencies, client or stakeholder value, and credibility."
+    },
+    "visual_style": {
+      "key": "adaptive",
+      "guidance": "Choose the strongest layout and design system for the supplied material and customer prompt. Avoid generic resume-template sections."
+    },
+    "customer_design_direction": "",
+    "selected_colors": {
+      "color1": "#13294B",
+      "color2": "#C9873A"
+    },
+    "privacy": {
+      "exclusions": [],
+      "notes": ""
+    },
+    "assets": {
+      "headshot": [],
+      "logo": [],
+      "gallery": []
+    }
+  },
+  "colors": {
+    "color1": "#13294B",
+    "color2": "#C9873A"
+  },
+  "privacy": {
+    "exclusions": [],
+    "notes": ""
+  },
+  "assets": {
+    "headshot": [],
+    "logo": [],
+    "gallery": []
+  },
+  "workflow": {
+    "purpose_key": "businessProfessional",
+    "purpose_label": "Business professional profile",
+    "visual_style": "adaptive"
+  },
+  "visual_direction": "Choose the strongest layout and design system for the supplied material and customer prompt. Avoid generic resume-template sections.",
+  "color_strategy": "Use #13294B and #C9873A as the main color direction.",
+  "pages_or_sections": [
+    {
+      "id": "hero",
+      "label": "Introduction",
+      "purpose": "Create a clear first impression from the approved source material.",
+      "content_notes": [
+        "5054300266 (Home)",
+        "danish.t.nadar@gmail.com"
+      ]
+    },
+    {
+      "id": "overview",
+      "label": "Overview",
+      "purpose": "Explain the main offer, story, role, project, or purpose without adding unsupported details.",
+      "content_notes": [
+        "danish.t.nadar@gmail.com",
+        "www.linkedin.com/in/danish-nadar",
+        "Full-Stack Development"
+      ]
+    },
+    {
+      "id": "audience",
+      "label": "Who It Helps",
+      "purpose": "Clarify who the business, project, or offer serves.",
+      "content_notes": [
+        "I’m a student AI engineer who builds dependable software systems"
+      ]
+    },
+    {
+      "id": "details",
+      "label": "Source-Backed Details",
+      "purpose": "Turn the strongest provided facts into useful visitor-facing content.",
+      "content_notes": [
+        "www.linkedin.com/in/danish-nadar",
+        "Full-Stack Development",
+        "English (Native or Bilingual)",
+        "Tamil (Native or Bilingual)",
+        "Certifications",
+        "Querying Data Certification",
+        "Python and Data Certification",
+        "Resume Rock Star"
+      ]
+    },
+    {
+      "id": "proof",
+      "label": "Proof Points",
+      "purpose": "Make the website feel substantial by organizing concrete source-backed evidence.",
+      "content_notes": [
+        "Certifications",
+        "Querying Data Certification",
+        "Python and Data Certification",
+        "Resume Rock Star",
+        "AI Skills Fest 2026",
+        "TestOut PC Pro Certification",
+        "Honors-Awards",
+        "Leadership Academy Scholarship"
+      ]
+    },
+    {
+      "id": "contact",
+      "label": "Next Step",
+      "purpose": "Give the visitor a clear next step using only provided contact details when available.",
+      "content_notes": [
+        "danish.t.nadar@gmail.com",
+        "5054300266"
+      ]
+    }
+  ],
+  "calls_to_action": [],
+  "seo": {
+    "title": "Starter Website",
+    "description": "5054300266 (Home)"
+  },
+  "contact": {
+    "email": "danish.t.nadar@gmail.com",
+    "phone": "5054300266",
+    "location": ""
+  }
+}
