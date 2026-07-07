@@ -1,8 +1,35 @@
 {
+  "seo": {
+    "title": "Starter Website",
+    "description": "5054300266 (Home)"
+  },
+  "assets": {
+    "logo": [],
+    "gallery": [],
+    "headshot": []
+  },
+  "colors": {
+    "color1": "#13294B",
+    "color2": "#C9873A"
+  },
+  "contact": {
+    "email": "danish.t.nadar@gmail.com",
+    "phone": "5054300266",
+    "location": ""
+  },
+  "privacy": {
+    "notes": "",
+    "exclusions": []
+  },
+  "audience": "",
+  "workflow": {
+    "purpose_key": "businessProfessional",
+    "visual_style": "adaptive",
+    "purpose_label": "Business professional profile"
+  },
+  "faq_items": [],
   "site_name": "Starter Website",
   "site_type": "businessProfessional",
-  "audience": "",
-  "business_goal": "Prioritize executive summary, measurable business impact, leadership, core competencies, client or stakeholder value, and credibility.",
   "brand_voice": "",
   "source_facts": [
     {
@@ -94,92 +121,27 @@
       "evidence_excerpt": "to real-time autonomy."
     }
   ],
-  "must_include_facts": [
-    "5054300266 (Home)",
-    "danish.t.nadar@gmail.com",
-    "www.linkedin.com/in/danish-nadar",
-    "Full-Stack Development",
-    "English (Native or Bilingual)",
-    "Tamil (Native or Bilingual)",
-    "Certifications",
-    "Querying Data Certification",
-    "Python and Data Certification",
-    "Resume Rock Star",
-    "AI Skills Fest 2026",
-    "TestOut PC Pro Certification",
-    "Honors-Awards",
-    "Leadership Academy Scholarship",
-    "Danish Nadar",
-    "Machine Learning Engineer @ Grupo Eloria | B.S.",
-    "AI, Minor in Data Science @ Illinois Tech, 2027 | M.A & Lila Self",
-    "Leadership Academy Scholar",
-    "Damascus, Maryland, United States",
-    "I’m a student AI engineer who builds dependable software systems",
-    "that use data to make decisions ranging from security automation",
-    "to real-time autonomy."
-  ],
+  "business_goal": "Prioritize executive summary, measurable business impact, leadership, core competencies, client or stakeholder value, and credibility.",
   "project_cards": [],
   "service_cards": [],
+  "color_strategy": "Use #13294B and #C9873A as the main color direction.",
+  "do_not_include": [
+    "Do not invent names, employers, headlines, taglines, summaries, skills, locations, services, education, experience, metrics, or contact details.",
+    "Do not invent unsupported new facts while applying the revision prompt."
+  ],
+  "calls_to_action": [],
+  "differentiators": [],
+  "visual_direction": "Choose the strongest layout and design system for the supplied material and customer prompt. Avoid generic resume-template sections.",
   "audience_segments": [
     {
       "title": "I’m a student AI engineer who builds dependable software systems",
-      "description": "I’m a student AI engineer who builds dependable software systems",
       "details": [
         "I’m a student AI engineer who builds dependable software systems"
       ],
+      "description": "I’m a student AI engineer who builds dependable software systems",
       "evidence_excerpt": "I’m a student AI engineer who builds dependable software systems"
     }
   ],
-  "differentiators": [],
-  "faq_items": [],
-  "do_not_include": [
-    "Do not invent names, employers, headlines, taglines, summaries, skills, locations, services, education, experience, metrics, or contact details."
-  ],
-  "generation_instructions": {
-    "selected_purpose": {
-      "key": "businessProfessional",
-      "label": "Business professional profile",
-      "guidance": "Prioritize executive summary, measurable business impact, leadership, core competencies, client or stakeholder value, and credibility."
-    },
-    "visual_style": {
-      "key": "adaptive",
-      "guidance": "Choose the strongest layout and design system for the supplied material and customer prompt. Avoid generic resume-template sections."
-    },
-    "customer_design_direction": "",
-    "selected_colors": {
-      "color1": "#13294B",
-      "color2": "#C9873A"
-    },
-    "privacy": {
-      "exclusions": [],
-      "notes": ""
-    },
-    "assets": {
-      "headshot": [],
-      "logo": [],
-      "gallery": []
-    }
-  },
-  "colors": {
-    "color1": "#13294B",
-    "color2": "#C9873A"
-  },
-  "privacy": {
-    "exclusions": [],
-    "notes": ""
-  },
-  "assets": {
-    "headshot": [],
-    "logo": [],
-    "gallery": []
-  },
-  "workflow": {
-    "purpose_key": "businessProfessional",
-    "purpose_label": "Business professional profile",
-    "visual_style": "adaptive"
-  },
-  "visual_direction": "Choose the strongest layout and design system for the supplied material and customer prompt. Avoid generic resume-template sections.",
-  "color_strategy": "Use #13294B and #C9873A as the main color direction.",
   "pages_or_sections": [
     {
       "id": "hero",
@@ -248,14 +210,65 @@
       ]
     }
   ],
-  "calls_to_action": [],
-  "seo": {
-    "title": "Starter Website",
-    "description": "5054300266 (Home)"
+  "must_include_facts": [
+    "5054300266 (Home)",
+    "danish.t.nadar@gmail.com",
+    "www.linkedin.com/in/danish-nadar",
+    "Full-Stack Development",
+    "English (Native or Bilingual)",
+    "Tamil (Native or Bilingual)",
+    "Certifications",
+    "Querying Data Certification",
+    "Python and Data Certification",
+    "Resume Rock Star",
+    "AI Skills Fest 2026",
+    "TestOut PC Pro Certification",
+    "Honors-Awards",
+    "Leadership Academy Scholarship",
+    "Danish Nadar",
+    "Machine Learning Engineer @ Grupo Eloria | B.S.",
+    "AI, Minor in Data Science @ Illinois Tech, 2027 | M.A & Lila Self",
+    "Leadership Academy Scholar",
+    "Damascus, Maryland, United States",
+    "I’m a student AI engineer who builds dependable software systems",
+    "that use data to make decisions ranging from security automation",
+    "to real-time autonomy."
+  ],
+  "generation_instructions": {
+    "assets": {
+      "logo": [],
+      "gallery": [],
+      "headshot": []
+    },
+    "privacy": {
+      "notes": "",
+      "exclusions": []
+    },
+    "visual_style": {
+      "key": "adaptive",
+      "guidance": "Choose the strongest layout and design system for the supplied material and customer prompt. Avoid generic resume-template sections."
+    },
+    "selected_colors": {
+      "color1": "#13294B",
+      "color2": "#C9873A"
+    },
+    "selected_purpose": {
+      "key": "businessProfessional",
+      "label": "Business professional profile",
+      "guidance": "Prioritize executive summary, measurable business impact, leadership, core competencies, client or stakeholder value, and credibility."
+    },
+    "customer_design_direction": "",
+    "customer_revision_prompt": "Make the website feel more premium and company-like. Strengthen the hero, add more trust-building proof points, improve spacing, and make the calls to action clearer. Make the project and proof sections much more impressive. Turn every important project or achievement from the source material into useful cards with clear outcomes and stronger visual hierarchy. Rework this into a stronger small business website. Emphasize services, who the business helps, why customers should trust it, the process, FAQs, and a confident contact section. Improve the visual design with subtle motion, refined colors, stronger section contrast, better buttons, and more polished card hover states while keeping everything professional and accessible. Overall, this site is absolutely horrendous. This website is not acceptable. Do NOT perform a small refinement. Re-evaluate every source document and image from scratch and redesign the website. The current website appears to have simply extracted random text and placed it into generic template sections. Examples of failures: • Phone number appears as the main headline. • Email addresses are treated as proof points. • Certifications became feature cards. • Languages became marketing highlights. • Images I uploaded were almost completely ignored. • My portfolio was ignored. • My projects were ignored. • My engineering experience was barely used. • My AI work was ignored. • My leadership was ignored. • The website tells no coherent story. Instead, synthesize ALL supplied information into a professional personal AI Engineer portfolio. -------",
+    "revision_rules": [
+      "Apply the requested improvement as a full professional revision.",
+      "Keep all claims grounded in the existing website plan and source facts.",
+      "Preserve or improve the strongest existing sections, cards, effects, and conversion paths.",
+      "Do not remove important source-backed projects, services, proof points, audience details, or contact details unless the revision explicitly asks for removal."
+    ]
   },
-  "contact": {
-    "email": "danish.t.nadar@gmail.com",
-    "phone": "5054300266",
-    "location": ""
+  "revision": {
+    "used": true,
+    "prompt": "Make the website feel more premium and company-like. Strengthen the hero, add more trust-building proof points, improve spacing, and make the calls to action clearer. Make the project and proof sections much more impressive. Turn every important project or achievement from the source material into useful cards with clear outcomes and stronger visual hierarchy. Rework this into a stronger small business website. Emphasize services, who the business helps, why customers should trust it, the process, FAQs, and a confident contact section. Improve the visual design with subtle motion, refined colors, stronger section contrast, better buttons, and more polished card hover states while keeping everything professional and accessible. Overall, this site is absolutely horrendous. This website is not acceptable. Do NOT perform a small refinement. Re-evaluate every source document and image from scratch and redesign the website. The current website appears to have simply extracted random text and placed it into generic template sections. Examples of failures: • Phone number appears as the main headline. • Email addresses are treated as proof points. • Certifications became feature cards. • Languages became marketing highlights. • Images I uploaded were almost completely ignored. • My portfolio was ignored. • My projects were ignored. • My engineering experience was barely used. • My AI work was ignored. • My leadership was ignored. • The website tells no coherent story. Instead, synthesize ALL supplied information into a professional personal AI Engineer portfolio. -------",
+    "revised_at": "2026-07-07T20:05:24.799Z"
   }
 }
